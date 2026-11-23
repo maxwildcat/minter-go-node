@@ -1,3 +1,4 @@
+- 2026-11-23: weekly housekeeping: link check and minor doc edits
 # Changelog
 
 ## [v3.3.0](https://github.com/MinterTeam/minter-go-node/tree/v3.3.0)
